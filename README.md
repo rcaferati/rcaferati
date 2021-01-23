@@ -1,16 +1,25 @@
-### Hi there 👋
+<div>
+<a href="https://github.com/rcaferati/react-awesome-slider"><img width="300" alt="react-awesome-slider demo" src="https://github.com/rcaferati/react-awesome-slider/blob/master/demo/public/images/fullscreen.gif?raw=true"/></a>
+</div>
 
-<!--
-**rcaferati/rcaferati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+/* React Full Page Transitions at react-awesome-slider */
 
-Here are some ideas to get you started:
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div>
+<a href="https://github.com/rcaferati/react-awesome-slider"><img width="300" alt="react-awesome-slider demo" src="https://caferati.me/images/rafael-caferati-web-developer-portfolio.gif"/></a>
+</div>
+
+```js
+/* Award-winning Portfolio Website at https://caferati.me */
+
+```
+
+
+<br>
+
+- 🔭 &nbsp; I’m currently working with end-to-end [React Native](https://linkedin.com/in/rcaferati) mobile applications
+- 📫 &nbsp; For professional enquiries ping-me on [LinkedIn](https://linkedin.com/in/rcaferati)
