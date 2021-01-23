@@ -4,5 +4,5 @@
 
 <br>
 
-- 🔭 &nbsp; I’m currently working with end-to-end [React Native](https://linkedin.com/in/rcaferati) mobile applications
+- 🔭 &nbsp; I’m currently focused on end-to-end [React Native](https://linkedin.com/in/rcaferati) mobile applications
 - 📫 &nbsp; For professional enquiries ping-me on [LinkedIn](https://linkedin.com/in/rcaferati)
