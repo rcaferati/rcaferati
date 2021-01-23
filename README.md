@@ -1,23 +1,6 @@
-<div>
-<a href="https://github.com/rcaferati/react-awesome-slider"><img width="300" alt="react-awesome-slider demo" src="https://github.com/rcaferati/react-awesome-slider/blob/master/demo/public/images/fullscreen.gif?raw=true"/></a>
-</div>
-
-```js
-/* React Full Page Transitions at react-awesome-slider */
-
-```
-
-<br>
-
-<div>
-<a href="https://github.com/rcaferati/react-awesome-slider"><img width="300" alt="react-awesome-slider demo" src="https://caferati.me/images/rafael-caferati-web-developer-portfolio.gif"/></a>
-</div>
-
-```js
-/* Award-winning Portfolio Website at https://caferati.me */
-
-```
-
+| `React Full-Page Transitions` | `Award-winning Portfolio Website` |
+|:-:|:-:|
+| <div><a href="https://github.com/rcaferati/react-awesome-slider"><img width="240" alt="react-awesome-slider demo" src="https://github.com/rcaferati/react-awesome-slider/blob/master/demo/public/images/fullscreen.gif?raw=true"/></a></div> | <div><a href="https://github.com/rcaferati/react-awesome-slider"><img width="240" alt="react-awesome-slider demo" src="https://caferati.me/images/rafael-caferati-web-developer-portfolio.gif"/></a></div> |
 
 <br>
 
