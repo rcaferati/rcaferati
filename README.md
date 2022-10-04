@@ -2,15 +2,16 @@
       <tr>
             <td colspan="2">
                   <br />
-                  <img height="80%" src="https://github-readme-stats.vercel.app/api?username=rcaferati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcaferati&layout=compact&langs_count=6&theme=tokyonight"/>            
-                  &nbsp;<br />&nbsp;
+                  <img height="100%" src="https://github-readme-stats.vercel.app/api?username=rcaferati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+                  <br />&nbsp;
       </tr>
       <tr>
             <td colspan="2">
                   <br />
                   <div>
-                        📱&nbsp; <code>Currently focused on end-to-end <a href="https://linkedin.com/in/rcaferati">React Native</a> iOS/Android mobile applications</code><br/>
-                        💬&nbsp; <code>For professional enquiries ping-me on <a href="https://linkedin.com/in/rcaferati">LinkedIn</a></code>
+                        📱&nbsp; <code>Currently focused on end-to-end <a href="https://linkedin.com/in/rcaferati">React Native</a> iOS/Android and <a href="https://linkedin.com/in/rcaferati">React</a> Web3 Privacy First PWA experiences</code><br/>
+                        💬&nbsp; <code>For professional enquiries ping-me on <a href="https://linkedin.com/in/rcaferati">LinkedIn</a></code><br />
+                        💼&nbsp; <code>Javascript</code>, <code>Typescript</code> <code>React</code>, <code>React Native</code>, <code>ElectronJS</code>, <code>UI/UX Design & Development</code>, <code>Design Systems</code>, <code>Solidity</code>, <code>Web3</code>, <code>Ethereum</code>, <code>Privacy First PWA</code>
                   </div>
                   <br />
             </td>
