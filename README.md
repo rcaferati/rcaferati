@@ -16,19 +16,25 @@
             </td>
       </tr>
       <tr>
-            <td>⚛&nbsp; <code>React Full-Page Transitions</code></td>
-            <td>⚗️&nbsp; <code>Award-winning Portfolio Website</code></td>
-      </tr>
-      <tr>
             <td>
+            <br/>
+            <div>
+                  <p>⚛&nbsp; <code>React Full-Page Transitions</code></p>
                   <a href="https://github.com/rcaferati/react-awesome-slider">
-                        <img height="150" width="300" alt="react-awesome-slider demo" src="https://github.com/rcaferati/react-awesome-slider/blob/master/demo/public/images/fullscreen.gif?raw=true"/>
+                        <img height="180" width="340" alt="react-awesome-slider demo" src="https://github.com/rcaferati/react-awesome-slider/blob/master/demo/public/images/fullscreen.gif?raw=true"/>
                   </a>
+            </div>
+            <br />
             </td>
             <td>
+            <br />
+            <div>
+                  <p>⚗️&nbsp; <code>Award-winning Portfolio Website</code></p>
                   <a href="https://caferati.me">
-                        <img height="150" width="300" alt="react-awesome-slider demo" src="https://caferati.me/images/rafael-caferati-web-developer-portfolio.gif"/>
+                        <img height="180" width="340" alt="react-awesome-slider demo" src="https://caferati.me/images/rafael-caferati-web-developer-portfolio.gif"/>
                   </a>
+            </div>
+            <br/>
             </td>
       </tr>
 </table>
