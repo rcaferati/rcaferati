@@ -9,7 +9,7 @@
             <td colspan="2">
                   <br />
                   <div>
-                        📱&nbsp; <code>Currently focused on end-to-end <a href="https://linkedin.com/in/rcaferati">React Native</a> mobile applications</code><br/>
+                        📱&nbsp; <code>Currently focused on end-to-end <a href="https://linkedin.com/in/rcaferati">React Native</a> iOS/Android mobile applications</code><br/>
                         💬&nbsp; <code>For professional enquiries ping-me on <a href="https://linkedin.com/in/rcaferati">LinkedIn</a></code>
                   </div>
                   <br />
