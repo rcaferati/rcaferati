@@ -1,6 +1,6 @@
 <table>
       <tr>
-            <td colspan="2">
+            <td colspan="2" align="center">
                   <br />
                   <img height="100%" src="https://github-readme-stats.vercel.app/api?username=rcaferati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
                   <br />&nbsp;
@@ -17,25 +17,27 @@
             </td>
       </tr>
       <tr>
-            <td>
+            <td align="center">
             <br/>
             <div>
                   <p>⚛&nbsp; <code>React Full-Page Transitions</code></p>
                   <a href="https://github.com/rcaferati/react-awesome-slider">
-                        <img height="180" width="340" alt="react-awesome-slider demo" src="https://github.com/rcaferati/react-awesome-slider/blob/master/demo/public/images/fullscreen.gif?raw=true"/>
+                        <img height="216" width="408" alt="react-awesome-slider demo" src="https://github.com/rcaferati/react-awesome-slider/blob/master/demo/public/images/fullscreen.gif?raw=true"/>
                   </a>
             </div>
             <br />
             </td>
-            <td>
-            <br />
-            <div>
-                  <p>⚗️&nbsp; <code>Award-winning Portfolio Website</code></p>
-                  <a href="https://caferati.me">
-                        <img height="180" width="340" alt="react-awesome-slider demo" src="https://caferati.me/images/rafael-caferati-web-developer-portfolio.gif"/>
-                  </a>
-            </div>
-            <br/>
-            </td>
+      </tr>
+      <tr>
+            <td align="center">
+                  <br />
+                  <div>
+                        <p>⚗️&nbsp; <code>Award-winning Portfolio Website</code></p>
+                        <a href="https://caferati.me">
+                              <img height="216" width="408" alt="react-awesome-slider demo" src="https://caferati.me/images/rafael-caferati-web-developer-portfolio.gif"/>
+                        </a>
+                  </div>
+                  <br/>
+            </td>      
       </tr>
 </table>
