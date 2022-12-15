@@ -1,11 +1,5 @@
 <table>
       <tr>
-             <td colspan="2" align="center">
-                   <br />
-                   <img height="200" src="https://github-readme-stats.vercel.app/api?username=rcaferati&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&disable_animations=true&text_bold=true"/>
-                   <br />&nbsp;
-       </tr>
-      <tr>
             <td colspan="2">
                   <br />
                   <div>
