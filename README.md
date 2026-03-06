@@ -16,7 +16,7 @@
             <div>
                   <p>⚛&nbsp; <code>React Full-Page Transitions</code></p>
                   <a href="https://github.com/rcaferati/react-awesome-slider">
-                        <img height="216" width="345" alt="react-awesome-slider demo" src="https://github.com/rcaferati/react-awesome-slider/blob/master/demo/public/images/fullscreen.gif?raw=true"/>
+                        <img height="216" width="345" alt="react-awesome-slider demo" src="https://caferati.dev/images/ras.gif"/>
                   </a>
             </div>
             <br />
