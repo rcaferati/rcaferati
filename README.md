@@ -26,7 +26,7 @@
             <td align="center">
                   <br />
                   <div>
-                        <p>⚗️&nbsp; <code>Award-winning Portfolio Website</code></p>
+                        <p>⚗️&nbsp; <code>Legacy Award-winning Portfolio Website</code></p>
                         <a href="https://caferati.me">
                               <img height="216" width="413" alt="react-awesome-slider demo" src="https://caferati.dev/images/rafael-caferati-web-developer-portfolio.gif"/>
                         </a>
