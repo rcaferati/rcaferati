@@ -27,7 +27,7 @@
                   <br />
                   <div>
                         <p>⚗️&nbsp; <code>Legacy Award-winning Portfolio Website</code></p>
-                        <a href="https://caferati.me">
+                        <a href="https://caferati.dev">
                               <img height="216" width="413" alt="react-awesome-slider demo" src="https://caferati.dev/images/rafael-caferati-web-developer-portfolio.gif"/>
                         </a>
                   </div>
