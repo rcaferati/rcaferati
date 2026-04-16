@@ -12,6 +12,22 @@
       </tr>
       <tr>
             <td align="center">
+                  <br />
+                  <div>
+                  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rcaferati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+                  </div>
+                  <br />
+            </td>
+            <td align="center">
+                  <br />
+                  <div>
+                  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcaferati&layout=compact&langs_count=6&theme=tokyonight"/>
+                  </div>
+                  <br />
+            </td>
+      </tr>
+      <tr>
+            <td align="center" colspan="2">
             <br/>
             <div>
                   <p>⚛&nbsp; <code>React Full-Page Transitions</code></p>
@@ -23,7 +39,7 @@
             </td>
       </tr>
       <tr>
-            <td align="center">
+            <td align="center" colspan="2">
                   <br />
                   <div>
                         <p>⚗️&nbsp; <code>Legacy Award-winning Portfolio Website</code></p>
