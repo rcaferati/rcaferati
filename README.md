@@ -10,7 +10,7 @@
                   <br />
             </td>
       </tr>
-      <tr>
+      <!-- <tr>
             <td align="center">
                   <br />
                   <div>
@@ -25,7 +25,7 @@
                   </div>
                   <br />
             </td>
-      </tr>
+      </tr> -->
       <tr>
             <td align="center" colspan="2">
             <br/>
